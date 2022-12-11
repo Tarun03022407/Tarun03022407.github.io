@@ -160,7 +160,6 @@ const Skills = () => {
               color="#00eaff"
               responsive={true} />
           </div>
-          {/* <div><a href="https://github.com/Preetiraj3697/github-readme-activity-graph"><img alt="Preetiraj3697 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Preetiraj3697&bg_color=050f2c&color=2ddd98&line=5BCDEC&point=FFFFFF&hide_border=false&show_icons=true&radius=10&area=true&area_color=2ddd98&border=3" /></a></div> */}
           <div className="stats" style={{marginTop:"40px"}}>
             
             <img
