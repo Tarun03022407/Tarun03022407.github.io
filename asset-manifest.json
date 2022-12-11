@@ -1,15 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.4c1caf5c.js",
-    "static/media/brandBanner.jpg": "/static/media/brandBanner.2541860e721025109460.jpg",
-    "static/media/About.jpg": "/static/media/About.964e39b2a761f1856842.jpg",
+    "main.css": "/static/css/main.0ea1bf22.css",
+    "main.js": "/static/js/main.ad3b1c54.js",
+    "static/media/foodapp.png": "/static/media/foodapp.02a942976843938a7106.png",
+    "static/media/giphy.png": "/static/media/giphy.cd9a6b9b8ea497e64dde.png",
+    "static/media/Hotstar.png": "/static/media/Hotstar.0afd9600a304feed36d5.png",
+    "static/media/Youtube.png": "/static/media/Youtube.bbb9138d1c4ffdb8bac3.png",
+    "static/media/NaturesBasket.png": "/static/media/NaturesBasket.9c961eff506a556e128a.png",
+    "static/media/Pharmeasy.png": "/static/media/Pharmeasy.b8bc452aee47d13254f3.png",
+    "static/media/EmpRecord.png": "/static/media/EmpRecord.dd98118a543a9ff44485.png",
+    "static/media/Todo.png": "/static/media/Todo.5e56bc9646156e2a1a3b.png",
+    "static/media/Image.png": "/static/media/Image.77d7d1485e5565070668.png",
     "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.4c1caf5c.js.map": "/static/js/main.4c1caf5c.js.map"
+    "main.0ea1bf22.css.map": "/static/css/main.0ea1bf22.css.map",
+    "main.ad3b1c54.js.map": "/static/js/main.ad3b1c54.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.4c1caf5c.js"
+    "static/css/main.0ea1bf22.css",
+    "static/js/main.ad3b1c54.js"
   ]
 }
