@@ -6,22 +6,8 @@ import {FiChevronsDown} from 'react-icons/fi'
 const Home = () => {
   return (
     <section id="home" className='home section'>
-      {/* this div weill be only visible at wider screen */}
-      <div className="leftIcons">
-        <div className="socials grid">
-          <a href="https://github.com/Tarun03022407" target="_blank">
-          <AiFillGithub className='icon'/>
-          </a>
-          <a href="https://www.linkedin.com/in/tarun-aggarwal-886440123/" target="_blank">
-          <AiFillLinkedin className='icon'/>
-          </a>
-          <a href="https://www.instagram.com/tarun_2407/" target="_blank">
-          <AiFillInstagram className='icon'/>
-          </a>
-          <div className='line'></div>
-        </div>
-      </div>
-      {/* HomeContent */}
+    
+   
       <div className="container homeContainer">
         <span className="introText">
           Hi my name is,
@@ -49,16 +35,8 @@ const Home = () => {
 
         </div>
       </div>
-      {/* right div with email address (will also be visible) at wider screen*/}
-     
-     <div className="rightEmail">
-      <div>
-        <div className="emailAddress">
-          <a href='https://mailto:taggarwal533@gmail.com' target="_blank">taggarwal533@gmail.com</a>
-        </div>
-        <div className="line"></div>
-      </div>
-     </div>
+    
+
   </section>
   )
 }
