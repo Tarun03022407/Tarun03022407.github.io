@@ -4,8 +4,6 @@ import './contact.css'
 import React, { useRef } from 'react';
 import emailjs from 'emailjs-com';
 const Contact = () => {
-
-
   const form = useRef();
 
   const sendEmail = (e) => {

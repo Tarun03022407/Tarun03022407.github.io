@@ -49,7 +49,6 @@ const Home = () => {
 
         </div>
       </div>
-      {/* right div with email address (will also be visible) at wider screen*/}
      
      {/* <div className="rightEmail">
       <div>
