@@ -31,7 +31,7 @@ to an organization through dedicated efforts
           </div>
         </div>
         <div className="aboutImgDiv">
-          <img src={img} alt="Preeti Raj" className="aboutImg"/>
+          <img src={img} alt="Tarun Aggarwal" className="aboutImg"/>
         </div>
       </div>
     </section>

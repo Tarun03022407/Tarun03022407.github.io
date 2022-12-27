@@ -10,6 +10,7 @@ import img5 from '../../Assets/foodapp.png'
 import img7 from '../../Assets/Todo.png'
 import img8 from '../../Assets/EmpRecord.png'
 import img9 from '../../Assets/giphy.png'
+import img10 from '../../Assets/Shop.com.png'
 
 
 const data = [
@@ -109,6 +110,18 @@ const data = [
     tech2:'CSS',
     tech3:'JavaScript',
   },
+  {
+  id:9,
+  image:img10,
+  demo:'https://aqua-shop.netlify.app/',
+  liveLink:'https://aqua-shop.netlify.app',
+  github:'https://github.com/Tarun03022407/Shop.com',
+  title:'Aqua Shop',
+  desc:'AQUASHOP.COM -Marketplace offers great deals on clothes, beauty, health and nutrition, shoes, electronics, and more from over 1500 stores with one easy checkout .',
+  tech1:'React',
+  tech2:'React-redux-thunk',
+  tech3:'Chakra-Ui',
+}
 ]
 const Projects = () => {
 
