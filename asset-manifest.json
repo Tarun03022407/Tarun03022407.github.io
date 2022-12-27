@@ -1,22 +1,23 @@
 {
   "files": {
     "main.css": "/static/css/main.0ea1bf22.css",
-    "main.js": "/static/js/main.acd2eb51.js",
+    "main.js": "/static/js/main.be2107cd.js",
     "static/media/foodapp.png": "/static/media/foodapp.02a942976843938a7106.png",
     "static/media/giphy.png": "/static/media/giphy.cd9a6b9b8ea497e64dde.png",
     "static/media/Hotstar.png": "/static/media/Hotstar.0afd9600a304feed36d5.png",
     "static/media/Youtube.png": "/static/media/Youtube.bbb9138d1c4ffdb8bac3.png",
     "static/media/NaturesBasket.png": "/static/media/NaturesBasket.9c961eff506a556e128a.png",
     "static/media/Pharmeasy.png": "/static/media/Pharmeasy.b8bc452aee47d13254f3.png",
+    "static/media/Shop.com.png": "/static/media/Shop.com.1410136e3dab3e2ea1be.png",
     "static/media/EmpRecord.png": "/static/media/EmpRecord.dd98118a543a9ff44485.png",
     "static/media/Todo.png": "/static/media/Todo.5e56bc9646156e2a1a3b.png",
     "static/media/Image.png": "/static/media/Image.77d7d1485e5565070668.png",
     "index.html": "/index.html",
     "main.0ea1bf22.css.map": "/static/css/main.0ea1bf22.css.map",
-    "main.acd2eb51.js.map": "/static/js/main.acd2eb51.js.map"
+    "main.be2107cd.js.map": "/static/js/main.be2107cd.js.map"
   },
   "entrypoints": [
     "static/css/main.0ea1bf22.css",
-    "static/js/main.acd2eb51.js"
+    "static/js/main.be2107cd.js"
   ]
 }
