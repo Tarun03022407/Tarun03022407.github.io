@@ -5,7 +5,7 @@ import './skills.css'
 import GitHubCalendar from 'react-github-calendar';
 import { AiFillGithub, AiFillGitlab, AiFillHtml5 } from 'react-icons/ai'
 import { GrMysql } from 'react-icons/gr'
-import { SiBootstrap, SiChakraui, SiCypress, SiExpress, SiFigma, SiMongodb, SiRedux, SiStyledcomponents, SiTailwindcss } from 'react-icons/si'
+import { SiBootstrap, SiChakraui, SiCypress, SiExpress, SiFigma, SiMongodb, SiRedux, SiStyledcomponents } from 'react-icons/si'
 const Skills = () => {
   return (
     <section id="skills" className='skills container section'>

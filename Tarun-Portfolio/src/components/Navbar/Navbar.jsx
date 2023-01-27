@@ -2,8 +2,10 @@ import React, { useState } from 'react'
 import './navbar.css'
 import {AiFillCloseCircle} from 'react-icons/ai'
 import {TbGridDots} from 'react-icons/tb'
+
 const Navbar = () => {
     const [active, setActive] = useState('navBar');
+const URL = "https://drive.google.com/file/d/1j7DfVHZi5rOOoxyRGTarl8UmtsBPS1WZ/view"
     const showNavBar = () => {
         setActive('navBar activeNavbar')
     }
@@ -45,8 +47,9 @@ const Navbar = () => {
             <li className="navItem">
                 <a href="#contact" className="navLink"><span className='headerNumber'></span> Contact</a>
             </li>
-            <button className='btn'>
-             <a href='Tarun-Aggarwal-Resume.pdf' download='Tarun-Aggarwal-Resume.pdf'>Resume</a>
+            <button  className='btn'>
+             <a  onClick={()=>window.open(URL, '_blank')}   href="Tarun-Aggarwal-Resume.pdf" download="Tarun-Aggarwal-Resume.pdf" >Resume</a>
+             
             </button>
         </ul>
         <div onClick={removeNavBar} className="closeNavBar">
