@@ -8,9 +8,10 @@ import img3 from '../../Assets/Pharmeasy.png'
 import img4 from '../../Assets/Youtube.png'
 import img5 from '../../Assets/foodapp.png'
 import img7 from '../../Assets/Todo.png'
-import img8 from '../../Assets/EmpRecord.png'
+import img8 from '../../Assets/aerofashion.png'
 import img9 from '../../Assets/giphy.png'
 import img10 from '../../Assets/Shop.com.png'
+
 
 
 const data = [
@@ -89,14 +90,14 @@ const data = [
   {
     id:7,
     image:img8,
-    demo:'https://62fa9de88a7447009a6e2a7b--thunderous-daifuku-58503e.netlify.app/',
-    liveLink:'https://62fa9de88a7447009a6e2a7b--thunderous-daifuku-58503e.netlify.app/',
-    github:'https://github.com/Tarun03022407/MasaiRecordApp',
-    title:'Records App',
-    desc:'A record maintaining application by which Masai School can maintain the record of employees.',
-    tech1:'Html',
-    tech2:'CSS',
-    tech3:'JavaScript',
+    demo:'https://63d7723d8213757904234c0e--visionary-churros-1d6bbc.netlify.app/',
+    liveLink:'https://63d7723d8213757904234c0e--visionary-churros-1d6bbc.netlify.app/',
+    github:'https://github.com/Tarun03022407/AeroFashion.com',
+    title:'AeroFashion.com',
+    desc:'AéroFashion, also called Aero, is an American shopping mall–based retailer of casual apparel and accessories, principally targeting young adults through its Aéropostale stores. ',
+    tech1:'React-redux-thunk',
+    tech2:'Mongoose',
+    tech3:'Express',
   },
   {
     id:8,
