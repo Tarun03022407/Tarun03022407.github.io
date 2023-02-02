@@ -17,8 +17,7 @@ const data = [
     id: 1,
     image: img8,
     demo: "https://63d7723d8213757904234c0e--visionary-churros-1d6bbc.netlify.app/",
-    liveLink:
-      "https://63d7723d8213757904234c0e--visionary-churros-1d6bbc.netlify.app/",
+    liveLink:"https://63d7723d8213757904234c0e--visionary-churros-1d6bbc.netlify.app/",
     github: "https://github.com/Tarun03022407/AeroFashion.com",
     title: "AeroFashion.com",
     desc: "AéroFashion, also called Aero, is an American shopping mall–based retailer of casual apparel and accessories, principally targeting young adults through its Aéropostale stores. ",
@@ -28,7 +27,6 @@ const data = [
   },
   {
     id: 2,
-
     image: img10,
     demo: "https://aqua-shop.netlify.app",
     liveLink: "https://aqua-shop.netlify.app",
@@ -43,8 +41,7 @@ const data = [
     id: 3,
     image: img3,
     demo: "https://63791b95bc18630f42f9eae8--luminous-gaufre-3cf77b.netlify.app/index.html",
-    liveLink:
-      "https://63791b95bc18630f42f9eae8--luminous-gaufre-3cf77b.netlify.app/index.html",
+    liveLink:"https://63791b95bc18630f42f9eae8--luminous-gaufre-3cf77b.netlify.app/index.html",
     github: "https://github.com/Tarun03022407/pharmeasy",
     title: "PharmEasy",
     desc: ' A clone website of PharmEasy is one of India"s most trusted online pharmacy & medical stores offering pharmaceutical and healthcare products at a FLAT 20% OFF.',
@@ -56,8 +53,7 @@ const data = [
     id: 4,
     image: img4,
     demo: "https://639618ab1fbc8c4135d67581--heartfelt-jalebi-4a0cdd.netlify.app/",
-    liveLink:
-      "https://639618ab1fbc8c4135d67581--heartfelt-jalebi-4a0cdd.netlify.app/",
+    liveLink:"https://639618ab1fbc8c4135d67581--heartfelt-jalebi-4a0cdd.netlify.app/",
     github: "https://github.com/Tarun03022407/youtube",
     title: "YouTube",
     desc: "A clone web application like Youtube where user can search and play videos. ",
@@ -69,8 +65,7 @@ const data = [
     id: 5,
     image: img5,
     demo: "https://632b336f07a632655cee108e--eloquent-biscotti-1bf391.netlify.app/",
-    liveLink:
-      "https://632b336f07a632655cee108e--eloquent-biscotti-1bf391.netlify.app/",
+    liveLink:"https://632b336f07a632655cee108e--eloquent-biscotti-1bf391.netlify.app/",
     github: "https://github.com/Tarun03022407/foodapp",
     title: "Food App",
     desc: "A Food App where user can search for recipes of desired food and can check the recipe of a day .",
@@ -83,8 +78,7 @@ const data = [
     id: 6,
     image: img7,
     demo: "https://639611f7db86393a88898cea--cute-biscochitos-04ad11.netlify.app/",
-    liveLink:
-      "https://639611f7db86393a88898cea--cute-biscochitos-04ad11.netlify.app/",
+    liveLink:"https://639611f7db86393a88898cea--cute-biscochitos-04ad11.netlify.app/",
     github: "https://github.com/Tarun03022407/todoapp",
     title: "Todo App",
     desc: "This App helps you to create your Todos and set the priority of todo task as high or low .",
