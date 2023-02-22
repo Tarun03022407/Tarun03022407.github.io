@@ -165,6 +165,13 @@ const Skills = () => {
             <img
               src="https://github-readme-streak-stats.herokuapp.com?user=Tarun03022407&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
           </div>
+          <div  className="stats" style={{marginTop:"40px"}}>
+            
+            <img 
+              src="https://github-readme-stats.vercel.app/api/top-langs?username=Tarun03022407&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
+          </div>
+
+         
         </div>
 
       </div>
