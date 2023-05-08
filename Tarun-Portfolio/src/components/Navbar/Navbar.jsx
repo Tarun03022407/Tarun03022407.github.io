@@ -23,8 +23,10 @@ const URL = "https://drive.google.com/file/d/1j7DfVHZi5rOOoxyRGTarl8UmtsBPS1WZ/v
 
     window.addEventListener('scroll',addBg)
   return (
-    
-       <header className={activeHeader}>
+    <div id="nav-menu">
+
+ 
+       <header  className={activeHeader}>
      <div className="logoDiv">
         <h1 className='logo'>
         <a href='#home'>" TARUN "</a>
@@ -60,7 +62,7 @@ const URL = "https://drive.google.com/file/d/1j7DfVHZi5rOOoxyRGTarl8UmtsBPS1WZ/v
             <TbGridDots className='icon'/>
         </div>
     </header>
-    
+    </div>
   )
 }
 
