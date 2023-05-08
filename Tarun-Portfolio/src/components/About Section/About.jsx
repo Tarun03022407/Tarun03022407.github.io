@@ -32,7 +32,7 @@ to an organization through dedicated efforts
             </a>
           </div>
         </div>
-        <div className="aboutImgDiv">
+        <div   className="home-img">
           <img src={img} alt="Tarun Aggarwal" className="aboutImg"/>
         </div>
       </div>

@@ -1,14 +1,28 @@
-import React from 'react'
-import { TbBrandReactNative,TbBrandNextjs } from 'react-icons/tb'
-import { IoLogoCss3, IoLogoJavascript, IoLogoNodejs, IoLogoWordpress } from 'react-icons/io'
-import './skills.css'
-import GitHubCalendar from 'react-github-calendar';
-import { AiFillGithub, AiFillGitlab, AiFillHtml5 } from 'react-icons/ai'
-import { GrMysql } from 'react-icons/gr'
-import { SiBootstrap, SiChakraui, SiCypress, SiExpress, SiFigma, SiMongodb, SiRedux, SiStyledcomponents } from 'react-icons/si'
+import React from "react";
+import { TbBrandReactNative, TbBrandNextjs } from "react-icons/tb";
+import {
+  IoLogoCss3,
+  IoLogoJavascript,
+  IoLogoNodejs,
+  IoLogoWordpress,
+} from "react-icons/io";
+import "./skills.css";
+import GitHubCalendar from "react-github-calendar";
+import { AiFillGithub, AiFillGitlab, AiFillHtml5 } from "react-icons/ai";
+import { GrMysql } from "react-icons/gr";
+import {
+  SiBootstrap,
+  SiChakraui,
+  SiCypress,
+  SiExpress,
+  SiFigma,
+  SiMongodb,
+  SiRedux,
+  SiStyledcomponents,
+} from "react-icons/si";
 const Skills = () => {
   return (
-    <section id="skills" className='skills container section'>
+    <section id="skills" className="skills container section">
       <div className="sectionTitle">
         <span className="titleNumber"></span>
         <h5 className="titleText">
@@ -27,41 +41,42 @@ const Skills = () => {
           <div className="generalSkills">
             <div className="singleSkills">
               <div className="iconBox flex">
-                <AiFillHtml5 className='icon' />
+                <AiFillHtml5 className="icon" />
               </div>
               <span className="skillName">HTML5</span>
             </div>
             <div className="singleSkills">
               <div className="iconBox flex">
-                <IoLogoCss3 className='icon' />
+                <IoLogoCss3 className="icon" />
               </div>
               <span className="skillName">Css3</span>
             </div>
             <div className="singleSkills">
               <div className="iconBox flex">
-                <SiStyledcomponents className='icon' />
+                <SiStyledcomponents className="icon" />
               </div>
-              <span  className="skillName">Styled<br></br>Component</span>
+              <span className="skillName">
+                Styled<br></br>Component
+              </span>
             </div>
             <div className="singleSkills">
               <div className="iconBox flex">
-                <TbBrandNextjs className='icon' />
+                <TbBrandNextjs className="icon" />
               </div>
               <span className="skillName">NextJs</span>
             </div>
             <div className="singleSkills">
               <div className="iconBox flex">
-                <IoLogoJavascript className='icon' />
+                <IoLogoJavascript className="icon" />
               </div>
               <span className="skillName">JavaScript</span>
             </div>
             <div className="singleSkills">
               <div className="iconBox flex">
-                <TbBrandReactNative className='icon' />
+                <TbBrandReactNative className="icon" />
               </div>
               <span className="skillName">React</span>
             </div>
-
           </div>
         </div>
         <div className="skillGroup">
@@ -71,37 +86,37 @@ const Skills = () => {
           <div className="generalSkills">
             <div className="singleSkills">
               <div className="iconBox flex">
-                <SiRedux className='icon' />
+                <SiRedux className="icon" />
               </div>
               <span className="skillName">Redux</span>
             </div>
             <div className="singleSkills">
               <div className="iconBox flex">
-                <IoLogoNodejs className='icon' />
+                <IoLogoNodejs className="icon" />
               </div>
               <span className="skillName">NodeJs</span>
             </div>
             <div className="singleSkills">
               <div className="iconBox flex">
-                <SiExpress className='icon' />
+                <SiExpress className="icon" />
               </div>
               <span className="skillName">ExpressJs</span>
             </div>
             <div className="singleSkills">
               <div className="iconBox flex">
-                <SiMongodb className='icon' />
+                <SiMongodb className="icon" />
               </div>
               <span className="skillName">MongoDB</span>
             </div>
             <div className="singleSkills">
               <div className="iconBox flex">
-                <SiCypress className='icon' />
+                <SiCypress className="icon" />
               </div>
               <span className="skillName">Cypress</span>
             </div>
             <div className="singleSkills">
               <div className="iconBox flex">
-                <GrMysql className='icon' />
+                <GrMysql className="icon" />
               </div>
               <span className="skillName">Mysql</span>
             </div>
@@ -114,37 +129,37 @@ const Skills = () => {
           <div className="generalSkills">
             <div className="singleSkills">
               <div className="iconBox flex">
-                <AiFillGithub className='icon' />
+                <AiFillGithub className="icon" />
               </div>
               <span className="skillName">GitHub</span>
             </div>
             <div className="singleSkills">
               <div className="iconBox flex">
-                <AiFillGitlab className='icon' />
+                <AiFillGitlab className="icon" />
               </div>
               <span className="skillName">Git</span>
             </div>
             <div className="singleSkills">
               <div className="iconBox flex">
-                <SiFigma className='icon' />
+                <SiFigma className="icon" />
               </div>
               <span className="skillName">Figma</span>
             </div>
             <div className="singleSkills">
               <div className="iconBox flex">
-                <IoLogoWordpress className='icon' />
+                <IoLogoWordpress className="icon" />
               </div>
               <span className="skillName">Wordpress</span>
             </div>
             <div className="singleSkills">
               <div className="iconBox flex">
-                <SiChakraui className='icon' />
+                <SiChakraui className="icon" />
               </div>
               <span className="skillName">ChakraUI</span>
             </div>
             <div className="singleSkills">
               <div className="iconBox flex">
-                <SiBootstrap className='icon' />
+                <SiBootstrap className="icon" />
               </div>
               <span className="skillName">Bootstrap</span>
             </div>
@@ -156,28 +171,24 @@ const Skills = () => {
         <h1>Tarun Aggarwal Github Statistics</h1>
         <div className="cal-con">
           <div className="calendar">
-            <GitHubCalendar username="Tarun03022407" year={new Date().getFullYear()} blockMargin={7}
+            <GitHubCalendar
+              username="Tarun03022407"
+              year={new Date().getFullYear()}
+              blockMargin={7}
               color="#00eaff"
-              responsive={true} />
+              responsive={true}
+            />
           </div>
-          <div className="stats" style={{marginTop:"40px"}}>
-            
-            <img
-              src="https://github-readme-streak-stats.herokuapp.com?user=Tarun03022407&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
+          <div className="stats" style={{ marginTop: "40px" }}>
+            <img src="https://github-readme-streak-stats.herokuapp.com?user=Tarun03022407&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
           </div>
-          <div  className="stats" style={{marginTop:"40px"}}>
-            
-            <img 
-              src="https://github-readme-stats.vercel.app/api/top-langs?username=Tarun03022407&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
+          <div className="stats" style={{ marginTop: "40px" }}>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tarun03022407&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
           </div>
-
-         
         </div>
-
       </div>
     </section>
+  );
+};
 
-  )
-}
-
-export default Skills
+export default Skills;

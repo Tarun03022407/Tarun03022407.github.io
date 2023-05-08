@@ -43,7 +43,7 @@
 .about .sectionContent .textSection .aboutBtn a:hover {
   color: var(--paragraphColor)
 }
-.about .sectionContent .aboutImgDiv {
+.about .sectionContent .home-img {
   position: relative;
   width: 300px;
   height: 300px;
@@ -53,7 +53,7 @@
   display: grid;
   border: 2px solid var(--projectCardColor) ;
 }
-.about .sectionContent .aboutImgDiv .aboutImg {
+.about .sectionContent .home-img .aboutImg {
   width: 297px;
   height: 297px;
   -o-object-fit: cover;
@@ -61,7 +61,7 @@
   align-items: center;
   justify-content: center;
 }
-.about .sectionContent .aboutImgDiv:hover.aboutImgDiv::before {
+.about .sectionContent .home-img:hover.home-img::before {
   height: 0%;
 }
 
