@@ -6,7 +6,7 @@ import { TbGridDots } from "react-icons/tb";
 const Navbar = () => {
   const [active, setActive] = useState("navBar");
   const URL =
-    "https://drive.google.com/file/d/1mc3vOIHc_JsTE1M6LuPGrNeWGhE9DG91/view?usp=sharing";
+    "https://drive.google.com/file/d/1mc3vOIHc_JsTE1M6LuPGrNeWGhE9DG91/view";
   const showNavBar = () => {
     setActive("navBar activeNavbar");
   };
