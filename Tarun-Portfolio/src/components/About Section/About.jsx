@@ -3,7 +3,7 @@ import { TbCloudDownload } from "react-icons/tb";
 import img from '../../Assets/Image.png'
 import "./about.css";
 const About = () => {
-  const URL = "https://drive.google.com/file/d/1j7DfVHZi5rOOoxyRGTarl8UmtsBPS1WZ/view"
+  const URL = "https://drive.google.com/file/d/1mc3vOIHc_JsTE1M6LuPGrNeWGhE9DG91/view"
 
   return (
     <section id="about" className="about section container">
